@@ -34,6 +34,9 @@ Integrasi My UMM, login, data akademik atau kuota real-time, pembayaran, persetu
 ### Metrik/usulan validasi
 Usulan target: pengguna mengenali konflik dalam ≤3 detik tanpa catatan manual. Ini target pengujian, bukan hasil yang sudah diukur. Uji pemilihan kelas, pencarian alternatif, serta pemahaman jadwal di ponsel.
 
+## Prototype dan wireframe
+[Buka prototype interaktif lima layar](https://rizkywahyu253.github.io/krs-cerdas-prd-ux-skill/): Beranda → Informasi KRS → Pilih kelas → Tinjau jadwal → Hasil simulasi. Navigasi, pencarian/filter, pemilihan kelas, pesan bentrok, tinjauan jadwal, dan hasil simulasi bekerja dalam satu alur. Data kelas adalah contoh dan tidak mengirim KRS ke sistem kampus. Wireframe tersedia di folder [`wireframes`](wireframes/).
+
 ## UX Skill
 Panduan rinci untuk alur, interaksi, aksesibilitas, evidence, dan checklist review ada di [`ux-skill/SKILL.md`](ux-skill/SKILL.md).
 
